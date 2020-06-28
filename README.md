@@ -13,7 +13,7 @@ This project aims to process the Human Activity Recognition Using Smartphones Da
 The dataset includes the following files:
 =========================================
 
-- 'README.txt'
+- 'README.md'
 
 - 'Run_analysis.R': R script to create the tidy database.
 
