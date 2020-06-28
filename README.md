@@ -1,12 +1,12 @@
 # UCI-HAR-Tidy-Dataset
 Process raw HAR dataset to create an aggregated dataset at test subject, activity type level
 
-==================================================================
+====================
 HAR Tidy Dataset
 Version 1.0
 Author: Peter Zhang
 Date: 6/27/2020
-==================================================================
+====================
 
 This project aims to process the Human Activity Recognition Using Smartphones Dataset[1] to a tidy, use-specific format. The features in this database is a processed version of the HAR dataset[1], combining the test and train data and outputs the average of all mean and standard deviation meansurements by the six activities and test subjects.
 
